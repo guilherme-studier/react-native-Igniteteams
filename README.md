@@ -4,15 +4,13 @@
 <h1 align="center">RocketSeat 🔥 Ignite</h1>
 
 <!-- Subtitle -->
-<h2 align="center"> Im Here </h2>
-
-> Este é um aplicativo mobile simples usando React Native. faz parte do módulo 01 do programa de aceleração Ignite da [Rocketseat](http://app.ropcketseat.com.br)
+<h2 align="center"> Ignite Teams </h2>
 
 <img src="./assets/img.png"/>
 
 ## Detalhes do aplicativo
 
-Trata-se de um aplicativo simples que simula a tela de uma lista de presença para um evento onde podem ser adicionados nome de participantes a medida que o participante chega
+Ignite Teams é uma aplicação mobile desenvolvida no bootcamp Ignite da Rocketseat usando boas praticas do desenvolvimento mobile. Ela consiste em criar turmas e adicionar jogadores em equipes. Não possui banco de dados, logo os dados são armazenados no próprio dispositivo. 
 
 ## 💻 Como usar o projeto
 Para gerar uma cópia do projeto e implementar as suas melhorias, esteja em um computador com Node Js instalado e siga as etapas abaixo:
