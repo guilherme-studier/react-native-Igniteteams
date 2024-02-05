@@ -6,7 +6,7 @@
 <!-- Subtitle -->
 <h2 align="center"> Ignite Teams </h2>
 
-<img src="./src/assets/img.png"/>
+<img style="align-items: center" src="./src/assets/img.png"/>
 
 ## Detalhes do aplicativo
 
